@@ -24,7 +24,7 @@ The goal is to explore the representation approaches and their performance.
 ---
 
 ## Files in the project
--**Data:** Examples of the data used for classification. Contains image and matrix encoded data, and labels.
--**Encoding:** Contains the R code used to encode the raw data of the proteins and peptides.
--**Results:** Heat graphs of the results for each model, for all parameters. 
--**Code files:** Training the models and doing the classification. Comparing the results and generating the graphs for visualization purposes.
+- **Data:** Examples of the data used for classification. Contains image and matrix encoded data, and labels.
+- **Encoding:** Contains the R code used to encode the raw data of the proteins and peptides.
+- **Results:** Heat graphs of the results for each model, for all parameters. 
+- **Code files:** Training the models and doing the classification. Comparing the results and generating the graphs for visualization purposes.
