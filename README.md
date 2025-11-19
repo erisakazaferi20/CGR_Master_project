@@ -1,10 +1,6 @@
 # CGR Classification Analysis
 
-**Short tagline:** An end-to-end analysis of CGR classification metrics across multiple resolutions.
-
----
-
-## 📘 Overview
+An end-to-end analysis of CGR classification metrics across multiple resolutions.
 Comparing matrix and image data representation approaches and assess their influence on machine learning model performance. Compare classification performance between FNN (on matrices) and CNN (on images).
 Evaluate model behaviour across:
 - Six datasets (AMPs, anti-inflammatory peptides, HIV resistance)
@@ -15,11 +11,11 @@ The goal is to explore the representation approaches and their performance.
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 - **Python:** `tensorflow`, `numpy`, `matplotlib`, `seaborn`, `sklearn`
 - **Reporting:** `Jupyter Notebook`, `LaTeX` 
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Source:** AMPs, anti-inflammatory peptides, HIV resistance from https://github.com/spaenigs/peptidereactor/tree/master/data
