@@ -13,6 +13,7 @@ The goal is to explore the representation approaches and their performance.
 
 ## Tech Stack
 - **Python:** `tensorflow`, `numpy`, `matplotlib`, `seaborn`, `sklearn`
+- **R**
 - **Reporting:** `Jupyter Notebook`, `LaTeX` 
 
 ---
